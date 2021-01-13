@@ -10,10 +10,9 @@
 - Web Designer **UI/UX**
 
 
-<p align="center">
-<a href="https://twitter.com/ghalibenbernou" target="blank"><img align="center" src="https://www.flaticon.com/authors/pixel-perfect" alt="ghalibenbernou" height="30" width="30" /></a>
-  
-<a href="https://linkedin.com/in/ghali benbernou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghali benbernou" height="30" width="30" /></a>
-<a href="https://fb.com/ghali benbernou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ghali benbernou" height="30" width="30" /></a>
-<a href="https://instagram.com/ghali_antares" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ghali_antares" height="30" width="30"  fill="white"/></a>
-</p>
+<div class="flex-center">
+  <i class="fa fa-twitter fa-4x icon-3d"></i>
+  <i class="fa fa-facebook fa-4x icon-3d"></i>
+  <i class="fa fa-instagram fa-4x icon-3d"></i>
+  <i class="fa fa-whatsapp fa-4x icon-3d"></i>
+</div>
