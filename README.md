@@ -10,9 +10,6 @@
 - Web Designer **UI/UX**
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaliben&layout=compact&hide=html" alt="ghaliben" /></p>
-
 <p align="center">
 <a href="https://twitter.com/ghalibenbernou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ghalibenbernou" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ghali benbernou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghali benbernou" height="30" width="30" /></a>
