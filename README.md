@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ghali Benbernou</h1>
 <h3 align="center">A new technologies passionate</h3>
 
-![without_mask](http://bitkraft.co.in/blog/wp-content/uploads/2018/04/Git-Banner.png)
+
 - Decision Support by Artificial Inteligence Engineer **Master's**
 
-- Digital project **Manager**
-
-- Web Designer **UI/UX**
+- **Senior Product Manager**
 
 
 <div class="flex-center">
